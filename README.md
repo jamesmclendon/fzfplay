@@ -1,4 +1,6 @@
-    fzfplay -- navigate and play media with fzf and Spotlight
+# fzfplay
+Navigate and play media with [fzf](http://jamesmclendon.com) and Spotlight.
+
     usage: fzfplay [-als] [-dpqrt arguments]
     
     options:
